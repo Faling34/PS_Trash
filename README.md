@@ -29,5 +29,15 @@
 
 ## 📂 Installation
 
-```bash
-git clone https://github.com/deinname/ps_trash.git
+1. **Herunterladen**
+   - Als ZIP herunterladen oder mit Git klonen:
+     ```bash
+     git clone https://github.com/deinname/ps_trash.git
+     ```
+
+2. **Einfügen**
+   - In deinen `resources`-Ordner legen
+
+3. **FXManifest eintragen**
+   ```lua
+   ensure ps_trash
