@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM-Ready-43b581?style=for-the-badge&logo=lua" />
   <img src="https://img.shields.io/badge/ESX-Supported-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Faling34/ANONYMOUS/ps_trash?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/Faling34/ps_trash?style=for-the-badge" />
 </p>
 
 ---
