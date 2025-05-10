@@ -13,7 +13,7 @@
 
 ✅ Item-Auswahl per Menü  
 ✅ Konfigurierbare Marker (Position, Typ, Farbe, Größe)  
-✅ Einfach Konfigurierbar siehe config.lua
+✅ Einfach Konfigurierbar siehe config.lua 
 ✅ 100% serverseitig abgesichert  
 ✅ Optimiert für Performance  
 
