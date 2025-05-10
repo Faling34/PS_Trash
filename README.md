@@ -32,7 +32,7 @@
 1. **Herunterladen**
    - Als ZIP herunterladen oder mit Git klonen:
      ```bash
-     git clone https://github.com/deinname/ps_trash.git
+     git clone https://github.com/Faling34/PS_Trash.git
      ```
 
 2. **Einfügen**
